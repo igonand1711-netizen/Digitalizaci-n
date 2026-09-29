@@ -28,23 +28,31 @@ Cada etapa puede ser realizada por un LLM diferente.
 
 Ejemplo: Un sistema complejo puede utilizarse para crear artículos detallados siguiendo diferentes etapas.
 
-1. Crear un índice
+**1. Crear un índice**
 Un LLM genera un esquema inicial para organizar el contenido.
 
-2. Refinar el índice
+**2. Refinar el índice**
 Otro modelo revisa el esquema y añade información para mejorar la estructura.
 
-3. Identificar temas relacionados
+**3. Identificar temas relacionados**
 Un tercer LLM busca temas que puedan complementar el contenido.
 
-4. Buscar información
+**4. Buscar información**
 El sistema puede utilizar herramientas externas como Wikipedia para obtener información adicional.
 
-6. Desarrollar el contenido
+**5. Desarrollar el contenido**
 Diferentes LLMs pueden encargarse de desarrollar cada sección del artículo.
 
-7. Escribir el artículo
+**6. Escribir el artículo**
 Un modelo recopila toda la información y genera el artículo completo.
 
-7. Aplicar formato
+**7. Aplicar formato**
 Finalmente, otro modelo puede encargarse de aplicar el formato necesario.
+
+Ejemplo: Los sistemas complejos también pueden utilizarse para realizar traducciones más precisas.
+
+El proceso podría ser:
+
+Texto original -> Crear glosario -> Contextualizar términos -> Traducción inicial -> Revisión y crítica -> Traducción final
+
+De esta manera, diferentes modelos colaboran para producir una traducción **más precisa y adaptada al contexto.**
