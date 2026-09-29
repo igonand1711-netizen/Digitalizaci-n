@@ -19,3 +19,32 @@ Podemos imaginar un sistema complejo como una cadena de montaje. Cada trabajador
 -El proceso continúa hasta obtener el producto final.
 
 En un sistema complejo ocurre algo similar, pero los trabajadores son modelos **de Inteligencia Artificial**
+
+Por ejemplo, para crear un artículo sobre un tema determinado:
+
+Tema -> Crear índice -> Buscar información -> Analizar información -> Redactar contenido -> Revisar contenido -> Aplicar formato -> Artículo final
+
+Cada etapa puede ser realizada por un LLM diferente.
+
+Ejemplo: Un sistema complejo puede utilizarse para crear artículos detallados siguiendo diferentes etapas.
+
+1. Crear un índice
+Un LLM genera un esquema inicial para organizar el contenido.
+
+2. Refinar el índice
+Otro modelo revisa el esquema y añade información para mejorar la estructura.
+
+3. Identificar temas relacionados
+Un tercer LLM busca temas que puedan complementar el contenido.
+
+4. Buscar información
+El sistema puede utilizar herramientas externas como Wikipedia para obtener información adicional.
+
+6. Desarrollar el contenido
+Diferentes LLMs pueden encargarse de desarrollar cada sección del artículo.
+
+7. Escribir el artículo
+Un modelo recopila toda la información y genera el artículo completo.
+
+7. Aplicar formato
+Finalmente, otro modelo puede encargarse de aplicar el formato necesario.
