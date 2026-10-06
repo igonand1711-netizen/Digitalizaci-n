@@ -39,3 +39,12 @@ Un sistema complejo puede utilizarse para diferentes tipos de problemas:
 - Búsqueda de información.
 - Automatización.
 - Análisis de datos.
+
+**Automatización**
+
+Permiten automatizar procesos que anteriormente requerían una gran cantidad de **intervención humana**
+.
+Por ejemplo, un sistema puede:
+
+Recibir una petición -> Analizar el problema -> Dividirlo en subtareas -> Ejecutar diferentes LLMs -> Revisar los resultados -> Generar una respuesta final
+
