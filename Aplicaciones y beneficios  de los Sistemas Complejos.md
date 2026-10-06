@@ -19,5 +19,23 @@ Puede utilizarse para:
 - Mejorar diferentes partes de un proyecto.
 
 **Windsurf**
+
 Windsurf es otro entorno de desarrollo basado en IA que utiliza un enfoque más agéntico.
 Puede ayudar al usuario a realizar diferentes tareas de programación de forma dinámica y automatizada.
+
+# Beneficios
+Los sistemas complejos ofrecen diferentes ventajas frente a una única llamada a un LLM.
+
+**Mayor precisión**
+Al dividir una tarea en diferentes etapas, cada modelo puede concentrarse en una función específica.
+Esto puede producir resultados más precisos y elaborados.
+
+**Adaptación a diferentes tareas**
+Un sistema complejo puede utilizarse para diferentes tipos de problemas:
+
+- Generación de textos.
+- Traducción.
+- Programación.
+- Búsqueda de información.
+- Automatización.
+- Análisis de datos.
