@@ -70,3 +70,17 @@ Los modelos de lenguaje pueden generar:
 - Errores.
 - Sesgos.
 Además, un error producido en una etapa puede afectar a las siguientes etapas del sistema.
+
+# ¿Cuándo utilizar un sistema complejo?
+No todos los problemas necesitan varios LLMs.
+
+Para una tarea sencilla puede ser suficiente utilizar una única llamada a un modelo.
+
+Los sistemas complejos son especialmente interesantes cuando una tarea requiere:
+Varias etapas.
+- Diferentes tipos de análisis.
+- Revisión de resultados.
+- Uso de herramientas externas.
+- Automatización de procesos.
+- Coordinación entre diferentes modelos.
+**Conclusión**: antes de crear un sistema complejo, es importante analizar si realmente aporta ventajas frente a una solución más sencilla.
