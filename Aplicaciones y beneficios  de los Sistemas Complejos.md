@@ -83,4 +83,3 @@ Varias etapas.
 - Uso de herramientas externas.
 - Automatización de procesos.
 - Coordinación entre diferentes modelos.
-**Conclusión**: antes de crear un sistema complejo, es importante analizar si realmente aporta ventajas frente a una solución más sencilla.
