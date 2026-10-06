@@ -17,3 +17,7 @@ Puede utilizarse para:
 - Detectar problemas.
 - Ayudar en la planificación de tareas.
 - Mejorar diferentes partes de un proyecto.
+
+**Windsurf**
+Windsurf es otro entorno de desarrollo basado en IA que utiliza un enfoque más agéntico.
+Puede ayudar al usuario a realizar diferentes tareas de programación de forma dinámica y automatizada.
